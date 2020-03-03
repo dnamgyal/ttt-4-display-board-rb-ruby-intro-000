@@ -3,8 +3,8 @@
 
 
 def display_board(moves)
-  puts " #{moves[0]} | #{moves[1]} | #{moves[2]}"
-  puts " #{moves[3]} | #{moves[4]} | #{moves[5]}"
+  puts " #{moves[0]} | #{moves[1]} | #{moves[2]} "
+  puts " #{moves[3]} | #{moves[4]} | #{moves[5]} "
   puts "-----------"
-  puts " #{moves[6]} | #{moves[7]} | #{moves[8]}"
+  puts " #{moves[6]} | #{moves[7]} | #{moves[8]} "
 end
